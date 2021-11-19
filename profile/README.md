@@ -4,7 +4,9 @@
 Welcome on Join4Join github organisation !
 
 ⚠️ Reporting bug : [link](https://github.com/join4join/.github/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+)
+
 🚀 Feature request : [link](https://github.com/join4join/.github/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BREQUEST%5D+)
+
 ❓ Other issue : [link](https://github.com/join4join/.github/issues/new/choose)
 
 <!--
